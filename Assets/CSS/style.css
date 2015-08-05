@@ -1,0 +1,38 @@
+body {
+    background-color: #4f4f4f;
+}
+
+/* This is the main header style */
+h1 {
+    display: block;
+    font-size: 2em;
+    align-content: center;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+/* Paragraph header style */
+header {
+    font-size: larger;
+    text-align: center;
+    color: #ffffff;
+}
+
+/* This is the main body style */
+#wrapper {
+    width: 900px;
+    margin: 0 auto;
+    border: dashed 1px #ffffff;
+}
+
+/* This is to control the logos*/
+#logo {
+    text-align:  center;
+}
+
+/* Footer header style */
+footer {
+    text-align: center;
+    color: #ffffff;
+}
